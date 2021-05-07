@@ -110,7 +110,7 @@ let ``print emoji  🐣`` =
 
 ## F# Types with .NET 5
 
-- [Source](https://github.com/dotnet/runtime/issues/29812)
+[Source](https://github.com/dotnet/runtime/issues/29812)
 
 Just as a quick update, various things do work.
 
@@ -248,8 +248,4 @@ Options:
 References:
 
 - https://docs.microsoft.com/pt-br/dotnet/fsharp/language-reference/fsharp-interactive-options
-
-## Samples
-
-- [Execute shell command in F#](https://alexn.org/snippets/2020/12/06/execute-shell-command-in-fsharp.html)
 
